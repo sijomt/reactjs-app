@@ -28,9 +28,9 @@ function App() {
   return (
     <div className="App">
       <nav className="navbar navbar-light bg-light mb-2">
-        <a class="navbar-brand" href="https://www.youtube.com/@IntegrationNinjas">
+        <a class="navbar-brand" href="https://medium.com/@sijomthomas05">
           <img src="./logo_p.png" width="50" height="50" class="d-inline-block" alt="" />
-          Integration Ninja
+          MERN Stack App
         </a>
       </nav>
       <div className='container'>
